@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @numuny
 - 👀 I’m interested in ... NFTs and DApps
-- 🌱 I’m currently learning ... Cadence
-- 💞️ I’m looking to collaborate on ... www.Bookol.club
-- 📫 How to reach me ... thenumuny@gmail.com
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... 
 
 <!---
 numuny/numuny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
